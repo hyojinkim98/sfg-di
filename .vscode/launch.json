@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SfgDiApplication<sfg-di>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "mainClass": "guru.springframework.sfgdi.SfgDiApplication",
+            "projectName": "sfg-di",
+            "args": ""
+        }
+    ]
+}
